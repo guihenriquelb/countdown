@@ -26,9 +26,6 @@ https://guihenriquelb.github.io/countdown-rocketseat/
 
 ```
 
-
-
-
 # Autor
 
 Guilherme Henrique Lima Batista
